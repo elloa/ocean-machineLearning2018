@@ -43,8 +43,8 @@ Machine Learning, Processo de Machine Learning, Aprendizado Supervisionado, Tare
 
 * [Link oficial](https://archive.ics.uci.edu/ml/datasets/auto+mpg)
 * [Baixe aqui o dataset autompg.csv](./problema1/autompg.csv)
-* [Notebook para trabalho](./problema1/Machine Learning hands-on Python - Problema 1.ipynb)
-* [Gabarito](./problema1/Machine Learning hands-on Python - Problema 1 -- Novo Gabarito.md)
+* [Notebook para trabalho](./problema1/problema1.ipynb)
+* [Gabarito](./problema1/problema1-gabarito.md)
 
 #### Problema 2 -- Conhecendo as flores Iris
 

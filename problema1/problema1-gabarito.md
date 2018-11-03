@@ -858,7 +858,7 @@ plt.show()
 ```
 
 
-![png](Machine%20Learning%20hands-on%20Python%20-%20Problema%201%20--%20Novo%20Gabarito_files/Machine%20Learning%20hands-on%20Python%20-%20Problema%201%20--%20Novo%20Gabarito_28_0.png)
+![png](problema1-gabarito_files/problema1-gabarito_28_0.png)
 
 
 ### Testando K-Vizinhos Mais Próximos
