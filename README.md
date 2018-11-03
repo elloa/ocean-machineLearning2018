@@ -43,7 +43,8 @@ Machine Learning, Processo de Machine Learning, Aprendizado Supervisionado, Tare
 
 * [Link oficial](https://archive.ics.uci.edu/ml/datasets/auto+mpg)
 * [Baixe aqui o dataset autompg.csv](./problema1/autompg.csv)
-* [Notebook para trabalho](./problema1/problema1.ipynb)
+* [Notebook para trabalho](https://raw.githubusercontent.com/elloa/ocean-machineLearning2018/master/problema1/problema1.ipynb)
+  * Clicar com o botão direito, Salvar como... (.ipynb)
 * [Gabarito](./problema1/problema1-gabarito.md)
 
 #### Problema 2 -- Conhecendo as flores Iris
