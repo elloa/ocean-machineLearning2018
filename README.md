@@ -34,7 +34,7 @@ Machine Learning, Processo de Machine Learning, Aprendizado Supervisionado, Tare
 
 ### Slides do Minicurso
 
-1. Slides Primeiro Encontro
+1. [Slides Primeiro Encontro](./slides1.pdf)
 2. Slides Segundo Encontro
 
 ### Datasets, notebooks, etc.
@@ -42,7 +42,9 @@ Machine Learning, Processo de Machine Learning, Aprendizado Supervisionado, Tare
 #### Problema 1 -- Estimando o consumo de veículos
 
 * [Link oficial](https://archive.ics.uci.edu/ml/datasets/auto+mpg)
-* [Baixe aqui o dataset autompg.csv](./problema1/autompg.csv)
+* [Baixe aqui o dataset autompg.csv](
+https://raw.githubusercontent.com/elloa/ocean-machineLearning2018/master/problema1/autompg.csv)
+    * Clicar com o botão direito, Salvar como... (.csv)
 * [Notebook para trabalho](https://raw.githubusercontent.com/elloa/ocean-machineLearning2018/master/problema1/problema1.ipynb)
   * Clicar com o botão direito, Salvar como... (.ipynb)
 * [Gabarito](./problema1/problema1-gabarito.md)
@@ -50,8 +52,11 @@ Machine Learning, Processo de Machine Learning, Aprendizado Supervisionado, Tare
 #### Problema 2 -- Conhecendo as flores Iris
 
 * [Link oficial](https://archive.ics.uci.edu/ml/datasets/iris)
-* Baixe aqui o dataset
-* Notebook para trabalho
+* [Baixe aqui o dataset iris.csv](https://raw.githubusercontent.com/elloa/ocean-machineLearning2018/master/problema2/iris.csv)
+    * Clicar com o botão direito, Salvar como... (.csv)
+* [Notebook para trabalho](https://raw.githubusercontent.com/elloa/ocean-machineLearning2018/master/problema2/problema2.ipynb)
+    * Clicar com o botão direito, Salvar como... (.ipynb)
+* [Gabarito](./problema2/problema2-gabarito.md)
 
 #### Problema 3 -- Reconhecendo dígitos manuscritos
 
