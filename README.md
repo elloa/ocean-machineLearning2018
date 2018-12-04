@@ -66,6 +66,10 @@ https://raw.githubusercontent.com/elloa/ocean-machineLearning2018/master/problem
         * Clicar com o botão direito, Salvar como... (.ipynb)
 * [Gabarito](./problema3/problema3-gabarito.md)
 
+#### Problema 4 -- Função seno
+
+* [Notebook para trabalho](https://raw.githubusercontent.com/elloa/ocean-machineLearning2018/master/problema4/problema4.ipynb)
+
 
 ### Bibliografia
 
